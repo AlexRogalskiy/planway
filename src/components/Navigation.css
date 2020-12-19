@@ -1,0 +1,38 @@
+.navigation-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid beige;
+}
+
+.navigation-auth {
+  float: right;
+  text-decoration: none;
+}
+
+.navigation-page {
+  float: left;
+}
+
+.navigation-link {
+  color: rgb(173, 172, 172);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navigation-link:hover {
+  background-color: rgb(246, 246, 246);
+}
+.accent-color {
+  color: #C51163;
+}
+
+.navigation-static {
+  display: inline-block;
+  color: rgb(173, 172, 172);
+  text-align: center;
+  padding: 14px 16px;
+}
